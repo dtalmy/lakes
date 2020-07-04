@@ -1,0 +1,3 @@
+[submodule "gotm-git/cases"]
+	path = gotm-git/cases
+	url = https://github.com/gotm-model/cases.git
