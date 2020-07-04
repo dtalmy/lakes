@@ -1,0 +1,3 @@
+[submodule "gotm-git/dases"]
+	path = gotm-git/dases
+	url = https://github.com/gotm-model/cases.git
